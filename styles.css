@@ -53,3 +53,8 @@ button:hover {
 	width: 4.7rem;
 	height: 1.7rem;
 }
+
+.info span p {
+    display: flex;
+    flex-direction: column;
+}
